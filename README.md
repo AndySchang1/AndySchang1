@@ -1,5 +1,5 @@
 - Hi, I’m @AndySchang1
-- I’m currently working on physics education research
+- I’m currently working on Quantum Computing and physics education research at Cornell University
 - Reach me by email @ams722@cornell.edu
 
 <!---
