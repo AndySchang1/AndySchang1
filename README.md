@@ -1,5 +1,6 @@
 - Hi, I’m @AndySchang1
 - I’m currently working on Quantum Computing and physics education research at Cornell University
+- I am not the owner of the relevant projects that I have been apart of, so they will not be found under my repo's!
 - Reach me by email @ams722@cornell.edu
 
 <!---
